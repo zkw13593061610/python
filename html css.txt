@@ -1,0 +1,38 @@
+后缀名 指定文件的类型
+ctrl s 保存
+写一个标签 按下table 对应的就会出来
+src 图片地址   alt 图片发生错误，出现的提示
+文件名/进入文件夹  ../退出文件夹
+herf a链接的地址
+link 样式链接表(需要研究研究)
+样式表：index.css
+border：   px   边框粗细程度
+           solid（实线）  边框的样式   dashed（虚线）
+           red   边框的颜色
+ctrl+/注释
+标签：
+<img src="" alt="" title="" width="" height="">
+<a href=""></a>
+div*10  十个div div{this is div}*10    十个<div>this is div</div>  div.box{this is div}*10 十个类名是<div class="box">this is div</div>  $序列  从一排到后面 
+ tan棕色   red红色  greenyellow 黄色
+css与
+font-size 字体颜色  font-weight： normal（常规）bold（加粗） 100-800之间的整数（加粗的程度）   text-align（文本的水平居中）：left，right，center     line-height：120 （行高）border-right，bottom，top，right   float：left （从左到右浮动）
+margin: 0 auto;（让块元素在父元素中水平居中） 
+/* 通用选择器：选择所有元素 */
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	/* 清除列表样式 */
+
+}
+a{
+	text-decoration: none;
+	/* 清除a链接下划线 */
+}
+img{
+	display: block;
+}
+cursor：pointer；   鼠标样式：手型（把样式单独记在一起）
+font-family:字体   字体的样式可以被继承
+    贝瑟尔曲线？???????

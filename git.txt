@@ -1,0 +1,17 @@
+http://www.zhuoda.com/index%EF%BC%88%E5%93%8D%E5%BA%94%E5%BC%8F%EF%BC%89
+克隆 ：git clone 网址
+打开文件夹： cd 文件名
+添加：git add *
+查看状态：git status
+标记：git commit -m “add”
+提交：git push （用户名、密码）
+
+
+查看网址：
+setting->github pagres->master branch/save->刷新
+删除：
+setting->delete this repository
+
+
+二次提交:
+拉取 git pull->添加。。。
